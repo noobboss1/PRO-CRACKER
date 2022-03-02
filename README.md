@@ -15,9 +15,9 @@ pip2 install futures
 
 pip2 install bs4
 
-git clone https://github.com/noobboss1/PRO-CRACKER
-
 rm -rf PRO-CRACKER
+
+git clone https://github.com/noobboss1/PRO-CRACKER
 
 cd PRO-CRACKER
 
